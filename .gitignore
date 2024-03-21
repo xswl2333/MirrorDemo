@@ -1,0 +1,12 @@
+.vs
+Library/
+Temp/
+Logs/
+obj/
+Assets/Mirror/
+Assets/TextMesh Pro/
+UserSettings/
+ProjectSettings/
+*.csproj
+*.sln
+*.vsconfig
